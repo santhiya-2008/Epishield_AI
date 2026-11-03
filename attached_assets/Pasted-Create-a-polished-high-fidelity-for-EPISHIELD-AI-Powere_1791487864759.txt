@@ -1,0 +1,517 @@
+Create a polished, high-fidelity for **EPISHIELD — AI-Powered Early Epidemic Detection & Response System**.
+
+Design the complete prototype as a **beautiful cinematic healthcare + environmental intelligence platform**, not as a generic admin dashboard.
+
+Use **only static prototype/sample data**. Do not assume real-time records, real sensor connections, live APIs, or actual map data are available. The interface should visually simulate a realistic operational system using clearly designed sample values.
+
+### VISUAL STYLE
+
+Use a **medium transparent ocean-blue theme** throughout the entire prototype.
+
+IMPORTANT:
+
+* Do NOT make the interface very dark blue.
+* Do NOT use pure black.
+* Do NOT use bright neon blue.
+* Use a balanced **medium blue background with transparent blue glass surfaces**.
+* Use soft aqua/cyan accents.
+* Use white and light-blue text.
+* Use semi-transparent blue cards.
+* Use subtle blur and thin translucent borders.
+* Use soft shadows.
+* Use elegant rounded corners.
+* Keep the interface bright enough to read clearly.
+
+The visual feeling should be:
+
+**Medium Ocean Blue + Transparent Glass + Realistic Images + Aqua Accents + Clean White Information**
+
+The website should feel premium, modern, trustworthy, environmental, and healthcare-focused.
+
+---
+
+### CINEMATIC LANDING PAGE
+
+Create a visually impressive full-screen cinematic landing page.
+
+Use a large cinematic environmental/water/healthcare visual area designed so an existing background video can be placed later.
+
+Navigation:
+
+**Home | About | How It Works | Contact | Login**
+
+Hero content:
+
+**EPISHIELD**
+
+**AI-Powered Early Epidemic Detection & Response System**
+
+**Detect Early. Respond Faster. Protect Communities.**
+
+Buttons:
+
+**Explore EPISHIELD**
+
+**Login**
+
+Make the landing page visually rich and cinematic rather than text-heavy.
+
+---
+
+### ABOUT EPISHIELD
+
+Create a beautiful visual About section with realistic images inside the cards.
+
+Use exactly these cards:
+
+**Disease Signals**
+Monitor unusual symptoms and case patterns.
+
+**Environmental Risk**
+Identify possible environmental and water-related risks.
+
+**AI Detection**
+Analyze multiple signals to identify potential outbreak patterns.
+
+**Early Response**
+Support faster action when risk is detected.
+
+Each card should contain a **realistic relevant image**, icon, title, and short description.
+
+Use realistic images such as:
+
+* healthcare workers
+* community health monitoring
+* water testing
+* environmental monitoring
+* emergency response
+
+Do not use cartoon images.
+
+---
+
+### HOW IT WORKS
+
+Create a beautiful visual process:
+
+**DATA COLLECTION → AI ANALYSIS → RISK DETECTION → ALERT → RESPONSE**
+
+Use clean connected cards with small realistic visual elements.
+
+Keep this section visually simple and easy to understand.
+
+---
+
+### AI INTELLIGENCE PREVIEW
+
+Create a premium visual preview card showing prototype data:
+
+**OUTBREAK RISK**
+
+**86%**
+
+**HIGH**
+
+Show:
+
+**Health Signals — HIGH**
+**Water Risk — CRITICAL**
+**Location Risk — HIGH**
+**Case Growth — +24%**
+
+AI insight:
+
+**Possible water-related outbreak pattern detected in Zone A.**
+
+Use a subtle realistic healthcare/environment image beside the information.
+
+---
+
+### WHY EPISHIELD
+
+Create four elegant visual cards:
+
+**Early Detection**
+
+**AI Risk Analysis**
+
+**Location-Based Monitoring**
+
+**Real-Time Alerts**
+
+Add realistic images to selected cards so the section feels visually rich.
+
+Do not make every card identical.
+
+---
+
+### CONTACT / FINAL CTA
+
+Create a clean final section:
+
+**Be Ready Before the Outbreak.**
+
+**Detect earlier. Respond faster. Protect communities.**
+
+Buttons:
+
+**Explore EPISHIELD**
+
+**Login**
+
+---
+
+# LOGIN
+
+Create a separate premium Login page.
+
+Use:
+
+* realistic healthcare/environmental image on one side
+* transparent medium-blue glass login panel
+* EPISHIELD logo
+* Email field
+* Password field
+* Login button
+
+Maintain exactly the same visual style as the landing page.
+
+---
+
+# COMMAND DASHBOARD
+
+After login, continue the **same medium transparent-blue visual identity**.
+
+Do not suddenly change to a dark admin dashboard.
+
+Sidebar:
+
+**EPISHIELD**
+
+Navigation:
+
+**Overview**
+**Risk Map**
+**Cases & Symptoms**
+**AI Intelligence**
+**Response Center**
+**Analytics**
+
+Dashboard title:
+
+**Command Center**
+
+Subtitle:
+
+**Community Health Intelligence**
+
+Use prototype/sample values:
+
+**86% HIGH RISK**
+
+**248 SUSPECTED CASES**
+
+**5 HIGH-RISK ZONES**
+
+**12 ACTIVE ALERTS**
+
+These are **static prototype values**, not live records.
+
+Add small labels such as:
+
+**Prototype Data**
+
+where appropriate.
+
+---
+
+# RISK MAP
+
+Create a large **realistic geographic map**.
+
+The map must look like a professional real-world GIS map.
+
+Include:
+
+* roads
+* geographic boundaries
+* water bodies
+* area names
+* healthcare locations
+* water sources
+* risk zones
+* sensor markers
+* response team markers
+
+Do NOT create:
+
+* holographic maps
+* glowing futuristic globes
+* cyberpunk maps
+* abstract network maps
+* AI-looking fantasy maps
+
+Use realistic geographic styling with a subtle medium-blue EPISHIELD treatment.
+
+Selected Zone A:
+
+**86% HIGH RISK**
+
+**74 SUSPECTED CASES**
+
+**+24% CASE GROWTH**
+
+**WATER CONTAMINATION DETECTED**
+
+**TURBIDITY ANOMALY +38%**
+
+AI assessment:
+
+**Possible water-related outbreak pattern.**
+
+Recommended action:
+
+**Inspect local water source.**
+
+Use a small realistic water/environment image inside the Zone A information card.
+
+---
+
+# CASES & SYMPTOMS
+
+Create a professional prototype case-monitoring page.
+
+Summary cards:
+
+**248 Total Cases**
+
+**32 New Cases**
+
+**8 Critical**
+
+**74 Zone A**
+
+Use a static sample table:
+
+**Location | Cases | Symptoms | Risk | Trend | Status**
+
+Include symptom visualization:
+
+**Fever**
+
+**Diarrhea**
+
+**Vomiting**
+
+**Stomach Pain**
+
+Show:
+
+**Symptom Cluster Detected**
+
+**Zone A — HIGH**
+
+Use realistic healthcare imagery in selected cards.
+
+---
+
+# AI INTELLIGENCE
+
+Create a dedicated AI Risk Intelligence page.
+
+Main card:
+
+**86% HIGH RISK**
+
+Indicators:
+
+**Health — HIGH**
+
+**Water — CRITICAL**
+
+**Location — HIGH**
+
+**Case Growth — +24%**
+
+**Environmental Anomaly — DETECTED**
+
+Show explainable evidence:
+
+* Diarrhea cases increasing
+* Water turbidity anomaly
+* Related cases concentrated in Zone A
+* Environmental readings abnormal
+* Geographic overlap
+
+AI conclusion:
+
+**Possible water-related outbreak pattern detected.**
+
+Recommendations:
+
+**Inspect Zone A water source**
+
+**Deploy health response team**
+
+**Collect water samples**
+
+**Monitor new cases**
+
+**Issue community advisory if confirmed**
+
+Keep the AI page clean and understandable, not overly futuristic.
+
+---
+
+# RESPONSE CENTER
+
+Create a professional response page using static prototype information.
+
+High-priority alert:
+
+**Possible Water-Related Outbreak**
+
+**Zone A**
+
+**86% HIGH RISK**
+
+Button:
+
+**Take Action**
+
+Workflow:
+
+**Alert → Assigned → In Progress → Sample Collected → Completed → Verify**
+
+Cards:
+
+**Water Inspection — In Progress**
+
+**Health Team — Assigned**
+
+**Community Alert — Completed**
+
+Use realistic field-response imagery in selected cards.
+
+---
+
+# ANALYTICS
+
+Create a clean analytics prototype page.
+
+Include:
+
+**Risk Trend**
+
+**Case Growth**
+
+**Environmental Trends**
+
+**Response Time**
+
+**High-Risk Zones**
+
+**Sensor Anomalies**
+
+Use static sample charts only.
+
+Before response:
+
+**86% HIGH**
+
+**74 CASES**
+
+**ANOMALY DETECTED**
+
+After response:
+
+**34% LOW**
+
+**CASE GROWTH REDUCED**
+
+**READINGS NORMALIZING**
+
+Message:
+
+**Risk reduced after response actions.**
+
+---
+
+# IMAGE STYLE
+
+Use realistic images throughout the prototype, especially inside important cards.
+
+Preferred images:
+
+* water quality testing
+* healthcare workers
+* environmental sensors
+* clean water sources
+* field health teams
+* community monitoring
+* environmental inspection
+* aerial environmental/geographic views
+
+Images should blend naturally into the medium transparent-blue interface.
+
+Do not use too many images.
+
+Use images strategically to make the prototype visually impressive.
+
+---
+
+# PROTOTYPE DATA RULES 
+
+There are no real live records available.
+
+Therefore:
+
+* Use realistic static/sample values.
+* Do not claim that data is actually live.
+* Do not require APIs.
+* Do not require connected IoT sensors.
+* Do not require real-time databases.
+* Do not require real GPS data.
+* Do not require real-time map tracking.
+* Do not create fake “live connection” functionality.
+
+The dashboard should **look like a real operational platform**, while all displayed information is clearly prototype/sample data.
+
+Use subtle labels such as:
+
+**Prototype Data**
+
+or
+
+**Sample Data**
+
+where needed, without making the design look unfinished.
+
+---
+
+# FINAL DESIGN DIRECTION
+
+The final prototype should look like a **premium real-world public-health and environmental intelligence platform**.
+
+The most important visual priorities are:
+
+**CINEMATIC LANDING PAGE**
+
+**MEDIUM TRANSPARENT BLUE THEME**
+
+**REALISTIC IMAGES INSIDE CARDS**
+
+**REALISTIC GIS MAP**
+
+**CLEAN HEALTH DATA**
+
+**AI RISK INTELLIGENCE**
+
+**RESPONSE WORKFLOW**
+
+**CONSISTENT DESIGN ACROSS EVERY PAGE**
+
+Do not add any extra features, pages, sections, or functionality beyond this specification
+
+Suggested tech: Flutter/React Native, Node.js/Django backend, predictive analytics 
+(Python/ML), web dashboard

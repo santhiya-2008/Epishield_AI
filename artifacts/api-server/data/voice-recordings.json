@@ -1,0 +1,20 @@
+[
+  {
+    "id": "VR-1082",
+    "title": "Sample Field Audio Note · Zone A Monitoring",
+    "createdAt": "2026-10-30T05:46:05.744Z",
+    "durationSeconds": 14,
+    "audioDataUrl": "data:audio/wav;base64,UklGRiQAAABXQVZFZm10IBAAAAABAAEARKwAAIhYAQACABAAZGF0YQAAAAA=",
+    "audioMimeType": "audio/wav",
+    "sizeBytes": 42100,
+    "source": "case-reporting",
+    "linkedCaseId": "CS-1048",
+    "zone": "Zone A",
+    "symptoms": [
+      "Fever",
+      "Diarrhea"
+    ],
+    "transcript": "Fictional field note: Monitoring sample reports of diarrhea and fever in Zone A near central water station.",
+    "notes": "Initial offline verification memo stored for public health team review."
+  }
+]

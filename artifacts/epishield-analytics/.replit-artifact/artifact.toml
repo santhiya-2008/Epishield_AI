@@ -1,0 +1,28 @@
+kind = "data-app"
+previewPath = "/epishield-analytics/"
+title = "EPISHIELD Analytics"
+description = "A companion analytics prototype for EPISHIELD with static sample charts for risk trends, case growth, environmental readings, response time, high-risk zones, and sensor anomalies. Includes clearly labeled before-and-after response outcomes; no live data connections."
+version = "1.0.0"
+id = "artifacts/epishield-analytics"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/epishield-analytics/" ]
+localPort = 20725
+
+[services.development]
+run = "pnpm --filter @workspace/epishield-analytics run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/epishield-analytics", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/epishield-analytics/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "20725"
+BASE_PATH = "/epishield-analytics/"

@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/"
+title = "EPISHIELD"
+description = "A cinematic public-health and environmental intelligence prototype. Explore a visual landing page, login screen, and operational command center with clearly labeled static sample data for risk mapping, case monitoring, AI insights, response workflows, and analytics."
+version = "1.0.0"
+id = "artifacts/epishield"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 19369
+
+[services.development]
+run = "pnpm --filter @workspace/epishield run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/epishield", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/epishield/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "19369"
+BASE_PATH = "/"

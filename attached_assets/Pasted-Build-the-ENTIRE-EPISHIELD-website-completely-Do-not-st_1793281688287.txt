@@ -1,0 +1,66 @@
+Build the ENTIRE EPISHIELD website completely. Do not stop after creating the homepage, UI design, or a few pages.
+
+I need the COMPLETE, FUNCTIONAL, MULTI-PAGE WEBSITE with all 13 separate routes specified in my previous prompt.
+
+IMPORTANT:
+
+- Inspect my existing project folder before making changes.
+- Preserve my existing background video and useful assets.
+- Implement every page with complete UI, working navigation, and appropriate functionality.
+- Do not generate just a design preview.
+- Do not leave pages empty or use the same generic content for every route.
+- Do not stop after creating the first few pages.
+
+COMPLETE IMPLEMENTATION REQUIRED:
+
+1. Cinematic scrolling homepage with my background video.
+2. Separate Sign In page.
+3. Separate Create Account page.
+4. Main dashboard with summary cards and recent activities.
+5. AI Agent Center with all six specialized agents and their connected workflow.
+6. Interactive Live Risk Map.
+7. Case Reporting with manual form and supported voice input.
+8. Water Intelligence with readings and historical charts.
+9. Outbreak Analysis with interactive charts and risk explanations.
+10. Alerts & Response with working assignment and status updates.
+11. Field Verification with task management and photo uploads.
+12. Reports & Analytics with filters, charts, and downloadable CSV reports.
+13. Settings with editable profile and notification preferences.
+
+FUNCTIONAL REQUIREMENTS:
+
+- Use React, TypeScript, Vite, and React Router.
+- Implement every route separately.
+- Create a shared sidebar and top navigation for authenticated pages.
+- Connect every navigation item to its correct page.
+- Implement form validation, buttons, filters, search, modals, and status updates.
+- Make submitted case reports appear in the dashboard.
+- Keep alert and task updates consistent across relevant pages.
+- Persist demonstration records using local storage.
+- Use realistic, clearly labelled demonstration data.
+- Make the website responsive on mobile, tablet, and desktop.
+- Use my existing video as the homepage background if available.
+- Use a real interactive map when available, with a fallback if map tiles cannot load.
+- Clearly distinguish simulated AI activities and sensor readings from real integrations.
+
+EXECUTION INSTRUCTIONS:
+
+Work directly inside my existing project folder.
+
+First inspect the project files and determine what has already been implemented.
+
+Then build all missing pages and functionality without unnecessarily replacing completed work.
+
+Install required dependencies, create reusable components, connect the routes, and run the application.
+
+After implementation, test every route and fix compilation errors, broken navigation, nonfunctional buttons, and layout problems.
+
+If the work cannot be completed in one pass, continue in subsequent passes until all requested pages and core workflows are implemented.
+
+Do not merely tell me how to build the website. Actually create and implement the files in my project.
+
+FINAL ACCEPTANCE CRITERIA:
+
+The website is complete only when all 13 routes exist, all pages have their own layouts, navigation works, core prototype interactions function, the homepage video is supported, and the entire application runs successfully.
+
+Begin implementation now.

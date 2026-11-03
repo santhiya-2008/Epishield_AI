@@ -1,0 +1,29 @@
+kind = "video"
+videoAspectRatio = "16:9"
+previewPath = "/epishield-film/"
+title = "EPISHIELD — Detect Early"
+description = "A short animated cinematic introduction to EPISHIELD, presenting its public-health and environmental purpose through carefully labeled prototype visuals. This is a visual film only, not live operational footage."
+version = "1.0.0"
+id = "artifacts/epishield-film"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/epishield-film/" ]
+localPort = 24001
+
+[services.development]
+run = "pnpm --filter @workspace/epishield-film run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/epishield-film", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/epishield-film/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "24001"
+BASE_PATH = "/epishield-film/"
