@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: epishield-ai
+    runtime: node
+    plan: free
+    buildCommand: npm install -g pnpm && pnpm install --no-frozen-lockfile && pnpm --filter @workspace/epishield run build && pnpm --filter @workspace/api-server run build
+    startCommand: node artifacts/api-server/dist/index.mjs
+    healthCheckPath: /api/healthz
+    envVars:
+      - key: NODE_VERSION
+        value: 22
+      - key: NODE_ENV
+        value: production
